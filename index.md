@@ -8,6 +8,11 @@ layout: default
 Hi! I am an MS Computer Science student at Georgia Tech.
 I'm interested in computer vision and deep learning with an emphasis on perception related problems.
 
+## Publications
+[Coming soon]
+
+## Projects
+[Coming soon]
 
 ## Experience
 
@@ -29,4 +34,4 @@ I'm interested in computer vision and deep learning with an emphasis on percepti
 <div style="text-align: left">Visiting student, Graphics and Imaging Lab</div> <div style="text-align: right">Jan 2015 - Jun 2015</div>
 
 ### [BITS Pilani](https://www.cc.gatech.edu), Goa, India
-<div style="text-align: left">BE(Hons) Electrical and Electronics</div> <div style="text-align: right">Aug 2011 - Aug 2015</div>
+<div style="text-align: left">BE(Hons) Electrical and Electronics</div> <div style="text-align: right">Aug 2011 - Jul 2015</div>
