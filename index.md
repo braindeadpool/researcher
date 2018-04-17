@@ -1,45 +1,32 @@
 ---
 layout: default
 ---
+<img class="profile-picture" src="avatar.jpg">
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+Hi! I am an MS Computer Science student at Georgia Tech.
+I'm interested in computer vision and deep learning with an emphasis on perception related problems.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Experience
 
-## Research Interest
+### [Blue Vision Labs](https://www.bluevisionlabs.com), London, United Kingdom
+<div style="text-align: left">Research Engineering Intern</div> <div style="text-align: right">May 2017 - Mar 2018</div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+### [CGG, Charles University](http://cgg.mff.cuni.cz/), Prague, Czech Republic
+<div style="text-align: left"> Research Intern, Computer Graphics Group</div> <div style="text-align: right"> Nov 2015 - Jul 2016</div>
 
-## Publications
+### [Google Summer of Code](https://www.google-melange.com/archive/gsoc/2014), Remote, India
+<div style="text-align: left"> Contract Developer</div> <div style="text-align: right"> May 2014 - Aug 2014</div>
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Education
 
-## Typography
+### [Georgia Institute of Technology](https://www.cc.gatech.edu), Atlanta, United States
+<div style="text-align: left">MS Computer Science</div> <div style="text-align: right">Aug 2016 - May 2018</div>
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+### [Universidad de Zaragoza](https://www.cc.gatech.edu), Zaragoza, Spain
+<div style="text-align: left">Visiting student, Graphics and Imaging Lab</div> <div style="text-align: right">Jan 2015 - Jun 2015</div>
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+### [BITS Pilani](https://www.cc.gatech.edu), Goa, India
+<div style="text-align: left">BE(Hons) Electrical and Electronics</div> <div style="text-align: right">Aug 2011 - Aug 2015</div>

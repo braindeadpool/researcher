@@ -3,24 +3,10 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [suraj@mssuraj.com](mailto:suraj@mssuraj.com)
 
 ---
 
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://www.linkedin.com/in/braindeadpool)
+2. [Github](https://www.github.com/braindeadpool)
+3. [Facebook](https://www.facebook.com/mssurajkaiga)
